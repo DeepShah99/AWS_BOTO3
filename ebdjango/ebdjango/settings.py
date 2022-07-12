@@ -77,10 +77,10 @@ WSGI_APPLICATION = 'ebdjango.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'mydj',
-        'USER' : 'admin',
-        'PASSWORD' : 'dbinstance',
-        'HOST' : 'dbinstance.ck2yxrxgm7yl.us-west-2.rds.amazonaws.com',
+        'NAME': 'name',
+        'USER' : 'user',
+        'PASSWORD' : 'password',
+        'HOST' : 'host',
         'PORT' : 3306
     }
 }
