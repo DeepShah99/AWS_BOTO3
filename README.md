@@ -1,1 +1,3 @@
-Automation of AWS resources with the help of boto3 sdk and python.
+- Deployed a static webpage using Elastic Beanstalk while leveraging the Django Web framework. 
+- Created custom models for storing article posts and RDS is used for the backend database framework.
+- Automated the deployment of various AWS services by using Boto3 SDK and Python. 
